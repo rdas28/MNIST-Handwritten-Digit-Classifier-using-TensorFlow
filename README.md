@@ -13,6 +13,7 @@ This project demonstrates building a neural network to classify handwritten digi
 7. **License**: A standard open-source license section to encourage contributions.
 
 Contributions:
+
 Riddhi Das
 
 Madhur Gusain
