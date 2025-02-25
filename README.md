@@ -14,4 +14,5 @@ This project demonstrates building a neural network to classify handwritten digi
 
 Contributions:
 Riddhi Das
+
 Madhur Gusain
