@@ -11,3 +11,7 @@ This project demonstrates building a neural network to classify handwritten digi
 5. **Visualizations**: Mentions the training and validation accuracy/loss plots.
 6. **Future Improvements**: Suggests some possible next steps for enhancing the model.
 7. **License**: A standard open-source license section to encourage contributions.
+
+Contributions:
+Riddhi Das
+Madhur Gusain
